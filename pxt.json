@@ -19,7 +19,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/calliope-mini/pxt-calliope-modem.git"
+        "url": "git+https://github.com/wildanimal/pxt-at-modem.git"
     },
     "public": true
 }
