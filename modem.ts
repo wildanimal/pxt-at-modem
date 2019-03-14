@@ -8,8 +8,8 @@
 //% parts="modem
 namespace modem {
     // keep the serial port settings for logging
-    let TX = SerialPin.C17;
-    let RX = SerialPin.C16;
+    let TX = SerialPin.P8;
+    let RX = SerialPin.P12;
     let BAUD = BaudRate.BaudRate9600;
 
     // the AT prefix, this may need to have even more characters, like "\rAT"
