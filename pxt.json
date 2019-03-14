@@ -1,5 +1,5 @@
 {
-    "name": "pxt-bc95-modem",
+    "name": "pxt-at-modem",
     "version": "1.0.2",
     "description": "Modem AT Functions",
     "license": "MIT",
